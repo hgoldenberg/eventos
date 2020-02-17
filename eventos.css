@@ -1,0 +1,42 @@
+.color {
+  background-color: yellow;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.resaltado {
+  background-color: yellow;
+  color: red;
+}
+
+.oculto {
+  display: none;
+}
+
+.cuerpo {
+  background-color: lime;
+}
+
+.imagen {
+  position: fixed;
+}
+
+.body {
+  height: 100vh;
+  cursor: none;
+}
+
+#magic {
+  height: 200px;
+  weight: 100px;
+}
+
+.desaparece{
+    display:none;
+}
+
+body{
+    height: 100vh;
+}
